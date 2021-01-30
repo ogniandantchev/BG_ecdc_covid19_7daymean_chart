@@ -1,0 +1,1 @@
+# BG_ecdc_covid19_7daymean_chart
